@@ -1,0 +1,34 @@
+自我介绍：
+
+
+
+才云科技：
+
+1. k8s 具体的组件有哪些。 单个部署流程
+https://blog.csdn.net/qq_43699373/article/details/89447941
+
+Pod
+Container（容器）
+Label(label)（标签）
+Replication Controller（复制控制器）
+Service（enter image description here）（服务）
+
+Node（节点）
+Kubernetes Master（Kubernetes主节点）
+
+2. pod如何下发，pod驱逐规则。
+3. lvs 的dr，net模式。
+4. top命令 第一行意思，下面链接状态。
+5. 修改linux的端口范围 
+6. 事故处理
+
+
+
+微创：
+1 、Linux 系统及中间件、数据库与应用系统熟不熟悉？ 
+2. 虚拟化操作平台（VMware、Hyper-V、OpenStack 等）熟不熟？有没有项目经历；
+3.Zabbix、Jira、Jenkins熟不熟？有相关经历？
+4.  ITIL 有了解么？
+5. 有 k8s 和 docker 集群部署和运维相关经验么？
+6. 腾讯蓝鲸运维自动化平台有听说过么？；
+7. 运维过大型业务系统经验者？
